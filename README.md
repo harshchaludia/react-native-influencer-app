@@ -28,14 +28,14 @@ Following entities were implemented:
     - Followers can categorize events with current, past and future events.
     - Followers can filter events by category.
     - Followers have a feed of mandor events.
-#
+
 ## Mandor Recomienda
-#
+
 > Ever been to a country and don’t know where to go or what to do? Then, this app will definitely solve that! ‘Mandor Recomienda’ will allow followers to know more about places and help travelers know what to do! Mandor is a famous influencer that will provide her users with her own recommendations and also help services get more costumers. Followers can also visit places which Mandor recommends and earn points, coupons and gift cards
 
-#
+
 ## Packages.json
-#
+
 | Package Name | Version |
 | ------ | ------ |
 |@expo/vector-icons| ^10.0.6|
@@ -81,20 +81,10 @@ $ npm install
 $ npm start --reset-cache
 ```
 
+### Development
 
-
-### Plugins
-
-Dillinger is currently extended with the following plugins. Instructions on how to use them in your own application are linked below.
-
-| Plugin | README |
-| ------ | ------ |
-| Dropbox | [plugins/dropbox/README.md][PlDb] |
-| GitHub | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
+- [EXPO LINK](https://exp.host/@harshchaludia/mandor-recomienda)
+- [APK LINK](https://drive.google.com/file/d/1LtGodmyPYUs2fPpnOyiBNartObJ0W8se/view?usp=sharing)
 
 
 ### Todos
