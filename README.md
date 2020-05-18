@@ -69,7 +69,7 @@ Following entities were implemented:
 |react-navigation-tabs| ^2.8.7|
 |yup| 0.27.0|
 
-### Installation
+## Installation
 
 This application requires [Node.js] to run.
 This app is built with expo.
