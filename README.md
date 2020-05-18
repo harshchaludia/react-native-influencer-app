@@ -36,10 +36,9 @@ Following entities were implemented:
 ## Authentication Screens:
 
 <p align="center">
-  <img src="screen1.png" width="25%" height="auto">
-  <img src="screen2.png" width="25%" height="auto">
-  <img src="screen3.png" width="25%" height="auto">
-  <img src="screen3.png" width="25%" height="auto">
+  <img src="https://github.com/harshchaludia/React-Native-Influencer-App/blob/master/screenshots/login.jpg" width="33%" height="auto">
+  <img src="https://github.com/harshchaludia/React-Native-Influencer-App/blob/master/screenshots/register.jpg" width="33%" height="auto">
+  <img src="https://github.com/harshchaludia/React-Native-Influencer-App/blob/master/screenshots/forgotpassword.jpg" width="33%" height="auto">
 
 </p>
 
