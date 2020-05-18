@@ -72,12 +72,12 @@ Following entities were implemented:
   <img src="https://github.com/harshchaludia/React-Native-Influencer-App/blob/master/screenshots/MandorBrandList.jpg" width="18%" height="auto">
   <img src="https://github.com/harshchaludia/React-Native-Influencer-App/blob/master/screenshots/MandorMessages.jpg" width="18%" height="auto">
    <img src="https://github.com/harshchaludia/React-Native-Influencer-App/blob/master/screenshots/MandorPostList.jpg" width="18%" height="auto">
-<img src="https://github.com/harshchaludia/React-Native-Influencer-App/blob/master/screenshots/MandorPostNew.jpg" width="18%" height="auto">
+<img src="https://github.com/harshchaludia/React-Native-Influencer-App/blob/master/screenshots/MandorSettings1.jpg" width="18%" height="auto">
  
 </p>
 
 <p align="center">
-  <img src="https://github.com/harshchaludia/React-Native-Influencer-App/blob/master/screenshots/MandorSettings1.jpg" width="18%" height="auto">
+  <img src="https://github.com/harshchaludia/React-Native-Influencer-App/blob/master/screenshots/MandorPostNew.jpg" width="18%" height="auto">
   <img src="https://github.com/harshchaludia/React-Native-Influencer-App/blob/master/screenshots/MandorSettings2.jpg" width="18%" height="auto">
  
 
