@@ -42,6 +42,18 @@ Following entities were implemented:
 
 </p>
 
+## Follower Screens:
+
+<p align="center">
+  <img src="https://github.com/harshchaludia/React-Native-Influencer-App/blob/master/screenshots/dashboardFollower.jpg" width="16%" height="auto">
+  <img src="https://github.com/harshchaludia/React-Native-Influencer-App/blob/master/screenshots/dealFollower.jpg" width="16%" height="auto">
+  <img src="https://github.com/harshchaludia/React-Native-Influencer-App/blob/master/screenshots/filterFollower.jpg" width="16%" height="auto">
+   <img src="https://github.com/harshchaludia/React-Native-Influencer-App/blob/master/screenshots/followerEvent.jpg" width="16%" height="auto">
+<img src="https://github.com/harshchaludia/React-Native-Influencer-App/blob/master/screenshots/personalizedFollower.jpg" width="16%" height="auto">
+ <img src="https://github.com/harshchaludia/React-Native-Influencer-App/blob/master/screenshots/settingsFollower.jpg" width="16%" height="auto">
+</p>
+
+
 ## Package.json
 
 | Package Name | Version |
