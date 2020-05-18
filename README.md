@@ -150,9 +150,9 @@ $ npm start --reset-cache
 
 - [EXPO LINK](https://exp.host/@harshchaludia/mandor-recomienda)
 - [APK LINK](https://drive.google.com/file/d/1LtGodmyPYUs2fPpnOyiBNartObJ0W8se/view?usp=sharing)
-- [MANDOR SCREENS] (https://drive.google.com/open?id=1bdGMF5CGQKzA3rgI8X1f0KMapczJgF4Y)
-- [BRAND SCREENS] (https://drive.google.com/open?id=1gEhYcxqSQBW3iV921VIgdYCpo4Al7e5v)
-- [FOLLOWER SCREENS] (https://drive.google.com/open?id=1oBT45zJjHjzHgsSvs85vp1ykvoWq3XgR)
+- [MANDOR SCREENS](https://drive.google.com/open?id=1bdGMF5CGQKzA3rgI8X1f0KMapczJgF4Y)
+- [BRAND SCREENS](https://drive.google.com/open?id=1gEhYcxqSQBW3iV921VIgdYCpo4Al7e5v)
+- [FOLLOWER SCREENS](https://drive.google.com/open?id=1oBT45zJjHjzHgsSvs85vp1ykvoWq3XgR)
 
 ### Todos
 
