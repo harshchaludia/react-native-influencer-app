@@ -53,6 +53,37 @@ Following entities were implemented:
  <img src="https://github.com/harshchaludia/React-Native-Influencer-App/blob/master/screenshots/settingsFollower.jpg" width="16%" height="auto">
 </p>
 
+## Brand Screens:
+
+<p align="center">
+  <img src="https://github.com/harshchaludia/React-Native-Influencer-App/blob/master/screenshots/brandDashboard.jpg" width="16%" height="auto">
+  <img src="https://github.com/harshchaludia/React-Native-Influencer-App/blob/master/screenshots/brandDashboard2.jpg" width="16%" height="auto">
+  <img src="https://github.com/harshchaludia/React-Native-Influencer-App/blob/master/screenshots/brandMessage.jpg" width="16%" height="auto">
+   <img src="https://github.com/harshchaludia/React-Native-Influencer-App/blob/master/screenshots/brandPricingPlan.jpg" width="16%" height="auto">
+<img src="https://github.com/harshchaludia/React-Native-Influencer-App/blob/master/screenshots/brandSettings.jpg" width="16%" height="auto">
+ <img src="https://github.com/harshchaludia/React-Native-Influencer-App/blob/master/screenshots/brandLogout.jpg" width="16%" height="auto">
+</p>
+
+
+## Mandor Screens:
+
+<p align="center">
+  <img src="https://github.com/harshchaludia/React-Native-Influencer-App/blob/master/screenshots/MandorDasboard.jpg" width="20%" height="auto">
+  <img src="https://github.com/harshchaludia/React-Native-Influencer-App/blob/master/screenshots/MandorBrandList.jpg" width="20%" height="auto">
+  <img src="https://github.com/harshchaludia/React-Native-Influencer-App/blob/master/screenshots/MandorMessages.jpg" width="20%" height="auto">
+   <img src="https://github.com/harshchaludia/React-Native-Influencer-App/blob/master/screenshots/MandorPostList.jpg" width="20%" height="auto">
+<img src="https://github.com/harshchaludia/React-Native-Influencer-App/blob/master/screenshots/MandorPostNew.jpg" width="20%" height="auto">
+ 
+</p>
+
+<p align="center">
+  <img src="https://github.com/harshchaludia/React-Native-Influencer-App/blob/master/screenshots/MandorSettings1.jpg" width="20%" height="auto">
+  <img src="https://github.com/harshchaludia/React-Native-Influencer-App/blob/master/screenshots/MandorSettings2.jpg" width="20%" height="auto">
+ 
+
+ 
+</p>
+
 
 ## Package.json
 
