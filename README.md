@@ -167,7 +167,7 @@ MIT
 
 ## Useful links
 Official guides:
-- [Using React Native SDK guide](https://voximplant.com/blog/using-react-native-sdk)
+- [Using React Native SDK guide](https://developers.facebook.com/docs/react-native/)
 
 ## Have a question ?
 
