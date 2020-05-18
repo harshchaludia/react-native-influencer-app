@@ -1,5 +1,5 @@
 # REACT NATIVE INFLUENCER APP
-An influencer application created for influencers. It basically recommends local/ global places. These places could be shops, restaurants, beaches, etc. It will also provide services for brands. This will help the brands get more followers and profits. Followers will see the recommendations as posts on their home page. Points will be exchanged for giftcards and coupons. This application is under the field of Applications and category of Local/Travel.
+An influencer application created for an influencer. It basically recommends local/ global places. These places could be shops, restaurants, beaches, etc. It will also provide services for brands. This will help the brands get more followers and profits. Followers will see the recommendations as posts on their home page. Points will be exchanged for giftcards and coupons. This application is under the field of Applications and category of Local/Travel.
 
 
 Mandor Recomienda
