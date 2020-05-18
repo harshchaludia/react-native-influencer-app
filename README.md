@@ -33,6 +33,15 @@ Following entities were implemented:
 
 > Ever been to a country and don’t know where to go or what to do? Then, this app will definitely solve that! ‘Mandor Recomienda’ will allow followers to know more about places and help travelers know what to do! Mandor is a famous influencer that will provide her users with her own recommendations and also help services get more costumers. Followers can also visit places which Mandor recommends and earn points, coupons and gift cards
 
+## Authentication Screens:
+
+<p align="center">
+  <img src="screen1.png" width="25%" height="auto">
+  <img src="screen2.png" width="25%" height="auto">
+  <img src="screen3.png" width="25%" height="auto">
+  <img src="screen3.png" width="25%" height="auto">
+
+</p>
 
 ## Package.json
 
@@ -69,17 +78,31 @@ Following entities were implemented:
 |react-navigation-tabs| ^2.8.7|
 |yup| 0.27.0|
 
-### Installation
+## Installation
 
 This application requires [Node.js] to run.
 This app is built with expo.
+
+Generate a firebaseConfig file under the directory path as following:
+
+> React-Native-Influencer-App\config\Firebase\firebaseConfig.js
+
+> export default {
+   // attach your firebase config details here
+};
+
+Next,
 Install the dependencies and devDependencies and start the server.
+
+
 
 ```sh
 $ cd folder-name
 $ npm install 
 $ npm start --reset-cache
 ```
+
+
 
 ### Development
 
