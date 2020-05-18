@@ -33,6 +33,13 @@ Following entities were implemented:
 
 > Ever been to a country and don’t know where to go or what to do? Then, this app will definitely solve that! ‘Mandor Recomienda’ will allow followers to know more about places and help travelers know what to do! Mandor is a famous influencer that will provide her users with her own recommendations and also help services get more costumers. Followers can also visit places which Mandor recommends and earn points, coupons and gift cards
 
+## Authentication Screens:
+
+<p align="center">
+  <img src="screen1.png" width="256" height="455">
+  <img src="screen2.png" width="256" height="455">
+  <img src="screen3.png" width="256" height="455">
+</p>
 
 ## Package.json
 
