@@ -76,8 +76,9 @@ This app is built with expo.
 
 Generate a firebaseConfig file under the directory path as following:
 
->React-Native-Influencer-App\config\Firebase\firebaseConfig.js
->export default {
+> React-Native-Influencer-App\config\Firebase\firebaseConfig.js
+
+> export default {
    // attach your firebase config details here
 };
 
